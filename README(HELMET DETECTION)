@@ -1,16 +1,16 @@
-
 # YOLOv8 Helmet Detection
 This project demonstrates a deep learning approach using the YOLOv8 model for detecting whether a rider is wearing a helmet or not. The model is trained and deployed using Python and popular machine learning libraries.
 ntroduction
 This project aims to detect whether a rider is wearing a helmet or not using the YOLOv8 object detection model. Helmet detection is a critical application for enhancing road safety by ensuring compliance with safety regulations.
 
-Dataset
+# Dataset
 The dataset used for this project includes images of riders, categorized as either wearing a helmet or not.
 Ensure that your dataset is properly labeled and split into training, validation, and test sets.
 Model Architecture
 YOLOv8: A state-of-the-art object detection model known for its speed and accuracy.
 The model was fine-tuned to detect two classes: With Helmet and Without Helmet.
-Training
+
+#Training
 Training Parameters:
 Epochs: [Number of epochs used]
 Batch Size: [Batch size]
