@@ -45,3 +45,6 @@ Open Jupyter Notebook:
 
 jupyter notebook
 Open the jupyter1.ipynb notebook, run the cells, and replace the video file name if needed.
+
+
+Feel free to star, fork, or contribute to this project! Your feedback is valuable.
