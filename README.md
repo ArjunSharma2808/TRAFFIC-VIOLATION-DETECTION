@@ -72,7 +72,5 @@ An interactive Jupyter Notebook providing a hands-on environment for testing and
      ```
 
    - Open the `jupyter1.ipynb` notebook, run the cells, and replace the video file name if needed.
-
-
-
+  
 Feel free to star, fork, or contribute
